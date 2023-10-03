@@ -10,7 +10,12 @@ public class Addition {
 		
 		System.out.println ("the result: " +c);
 		
-		System.out.println ("addition method ended..!!");
+		
+		//System.out.println ("addition method ended..!!");
+		//System.out.println ("addition method ended..!!");
+		//System.out.println ("addition method ended..!!");
+		//System.out.println ("addition method ended..!!");
+		//System.out.println ("addition method ended..!!");
 		
 		return c;
 	}
